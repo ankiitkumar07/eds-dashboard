@@ -1,1 +1,19 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+.c-pointer{
+    cursor: pointer;
+}
+
+a, a:hover, a:visited {
+    color: black;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.mt-4{
+    margin-top: 0.8rem !important;
+}
